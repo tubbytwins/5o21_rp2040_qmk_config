@@ -2,6 +2,7 @@
 
 This is a variant/modification of the [Nine Nano](https://github.com/bsag/nine-nano) split keyboard by @bsag.  This variant has been expanded to 17 keys, and is configured to accept an RP2040 MCU in a left-hand only (single hand) configuration.
 
+![Top View](https://i.imgur.com/rChU6CK.jpeg)
 
 Make example for this keyboard (after setting up your build environment):
 
